@@ -6,29 +6,32 @@
 
 ## ✨ Features
 
-- **Data Visualization**
-  - Interactive charts & graphs
-  - Real-time data metrics
-  - Customizable dashboards
-- **Management Tools**
-  - Comprehensive data grids
-  - Calendar scheduling
-  - Form builders
-- **Future Roadmap**
-  - Backend integration
-  - User authentication
-  - API data connectivity
+- **Visual Customization**
+  - Light/dark mode toggle
+  - 6 theme color options
+  - Real-time theme preview
+  - Full UI consistency across all components
+
+- **Syncfusion Showcase**
+  - Interactive data grids
+  - Calendar component demo
+  - Chart and graph displays
+  - Form elements playground
+
+- **UI Exploration**
+  - Component property tweaking
+  - Layout experimentation
+  - Responsive design testing
 
 ## 🛠 Tech Stack
 
 | Category       | Technologies                         |
 |----------------|--------------------------------------|
-| Frontend       | React, TypeScript                    |
-| UI Components  | Syncfusion Suite                     |
-| Styling        | Tailwind CSS                         |
-| Navigation     | React Router                         |
-| Deployment     | Render                               |
-
+| Core Framework | React + TypeScript                   |
+| UI Library     | Syncfusion Components                |
+| Styling        | Tailwind CSS (Base styles)           |
+| Theming        | Syncfusion Theme Studio              |
+| State          | React Context API                    |
 ## 🚀 Live Demo
 
 Experience the dashboard: [Admin Dashboard Demo](https://admin-dashboard-bsjq.onrender.com)
